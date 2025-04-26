@@ -14,7 +14,6 @@ function App() {
     e.preventDefault();
     setOrderIsSubmitted(true);
   };
-  Add pizza order form with size, toppings, and contact info
 
   return (
     <div>
